@@ -175,7 +175,16 @@ XeonLft = await getBuffer(`https://hardianto.xyz/api/goodbye3?profile=${encodeUR
 	            const xmembers = metadata.participants.length
                 let unicorndoc = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "916909137213-1604595598@g.us"}, "message": {orderMessage: {itemCount: 9999999,status: 200, thumbnail: XeonWlcm, surface: 200, message: `${metadata.subject}`, orderTitle: 'xeon', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
                 xeonbody = `┌─❖
-│「 𝗛𝗶 👋 」
+│「 𝗛𝗶 Welcome to Data Services👋
+ *_♥️نئے آنے والے سب ممبرز کو خوش آمدید👍🏻🥰_*
+*_اس گروپ میں آپ سب کو ملیں گی درج ذیل  چیزیں All Nadra Data Service 💻_*
+*_📸فوٹوز ایڈیٹنگ_*
+*_ہر ملک کا فیک نمبر📠_*
+*_سم ڈیٹیلز🪤_*
+*_شناختی کارڈ کی کلرڈ کاپی 📟_*
+*_گم ہوا موبائل کی لائیو لوکیشن📲_*
+*_نوٹ 📣»کوئ بھی چیز فری نہیں  ہے.. ہر چیز کی ایک الگ فیس ہو گی,شکریہ🙂_*
+*_👥فیملی کی تمام تفصیلات اور سب کے شناختی کارڈ 💳_*」
 └┬❖ 「 @${xeonName.split("@")[0]}  」
    │✑  𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 
    │✑  ${metadata.subject}
@@ -219,7 +228,7 @@ XeonBotInc.sendMessage(anu.id, buttonMessage, {quoted:unicorndoc})
                     const xeonmembers = metadata.participants.length
                     let unicorndoc = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "916909137213-1604595598@g.us"}, "message": {orderMessage: {itemCount: 9999999,status: 200, thumbnail: xeonbuffer, surface: 200, message: `${metadata.subject}`, orderTitle: 'xeon', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
                     xeonbody = `┌─❖
-│「 𝗚𝗼𝗼𝗱𝗯𝘆𝗲 👋 」
+│「 𝗚𝗼𝗼𝗱𝗯𝘆𝗲 👋 Thanks for letting free the group space  」
 └┬❖ 「 @${xeonName.split("@")[0]}  」
    │✑  𝗟𝗲𝗳𝘁 
    │✑ ${metadata.subject}
