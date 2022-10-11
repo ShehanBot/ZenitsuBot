@@ -175,7 +175,7 @@ XeonLft = await getBuffer(`https://hardianto.xyz/api/goodbye3?profile=${encodeUR
 	            const xmembers = metadata.participants.length
                 let unicorndoc = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "916909137213-1604595598@g.us"}, "message": {orderMessage: {itemCount: 9999999,status: 200, thumbnail: XeonWlcm, surface: 200, message: `${metadata.subject}`, orderTitle: 'xeon', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
                 xeonbody = `┌─❖
-│「 𝗛𝗶 Welcome to Data Services👋
+│「 𝗛𝗶 Welcome to Social Solution👋
  *_♥️نئے آنے والے سب ممبرز کو خوش آمدید👍🏻🥰_*
 *_اس گروپ میں آپ سب کو ملیں گی درج ذیل  چیزیں All Nadra Data Service 💻_*
 *_📸فوٹوز ایڈیٹنگ_*
