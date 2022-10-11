@@ -54,24 +54,24 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['918348225320'] //ur owner number
-global.ownername = "🦄Dream Guy Deepak" //ur owner name
-global.ytname = "YT: Deepak Gupta" //ur yt chanel name
-global.socialm = "Instagram: deepak_gupta_2006" //ur github or insta name
-global.location = "India, West Bengal, Darjeeling" //ur location
+global.vcardowner = ['923424269839'] //ur owner number
+global.ownername = "Social Solution" //ur owner name
+global.ytname = "YT: ERROR ERROR" //ur yt chanel name
+global.socialm = "Instagram: ERROR Zzz" //ur github or insta name
+global.location = "Karachi,Pakistan" //ur location
 
 //bot bomdy 
-global.owner = ['918348225320']
-global.ownertag = '918348225320' //ur tag number
-global.botname = 'ZenitsuBot-MD' //ur bot name
-global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
-global.websitex = "https://chat.whatsapp.com/KguOo9XsRTW2iESYuHzVX1" //ur website to be displayed
-global.botscript = 'https://instagram.com/deepak_gupta_2006/' //script link
+global.owner = ['923424269839']
+global.ownertag = '923424269839' //ur tag number
+global.botname = 'SocialSolution-Presents' //ur bot name
+global.linkz = "https://chat.whatsapp.com/LDEQQFsOOl9KmeSEa5MtXh" //your theme url which will be displayed on whatsapp
+global.websitex = "https://chat.whatsapp.com/LDEQQFsOOl9KmeSEa5MtXh" //ur website to be displayed
+global.botscript = 'https://chat.whatsapp.com/LDEQQFsOOl9KmeSEa5MtXh' //script link
 global.reactmoji = "☣️" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "🦄Dream Guy Deepak Stickers\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Don't Steal👊🏻🦵🏻 " //ur sticker watermark packname
-global.author = "🦄ZenitsuBot-MD" //ur sticker watermark author
-global.wm = "Zenitsu Bot-MD Presents"
+global.packname = "🦄Social Solution Stickers\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Don't Steal👊🏻🦵🏻 " //ur sticker watermark packname
+global.author = "🦄PersonalBot-MD" //ur sticker watermark author
+global.wm = "Social Solution Presents"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
